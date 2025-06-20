@@ -155,7 +155,7 @@ const tabrez = {
   ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
   <img src="https://github.com/tabrezkhan005/tabrezkhan005/blob/output/github-contribution-grid-snake.svg?snake_color=#79d70f&color_snake=79d70f&color_dots=#1a1b27,#41a7c4,#8b64ff,#c822ff,#ff79c6" alt="Snake animation" />
-
+  
   <sub>Made with 💙 by Tabrez Khan</sub>
 
 </div>
