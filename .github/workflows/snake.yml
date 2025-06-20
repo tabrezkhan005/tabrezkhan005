@@ -13,7 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # This new step creates the directory, preventing the error
       - name: Create dist directory
         run: mkdir -p dist
 
@@ -21,8 +20,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # The output file for the snake animation
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Use the 'outputs' parameter to specify the output file
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push to repo
         uses: crazy-max/ghaction-github-pages@v3
