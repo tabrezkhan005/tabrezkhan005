@@ -1,3 +1,13 @@
+ <a href="https://tabrezkhan.in/">
+      <img
+        alt="Tabrez Khan Banner"
+        src="assets/gitbanner.png" 
+        width="100%"
+      />
+ </a>
+
+
+
 # 👋 Hi there, I'm Tabrez Khan
 
 <div align="center">
