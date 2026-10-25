@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
+<title id="t">Tabrez — AI Engineer</title><desc id="d">Tabrez, AI Engineer and Full-Stack Developer. RAG, agentic pipelines, LLM fine-tuning.</desc>
+<defs>
+<linearGradient id="tz-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060B14"/><stop offset="1" stop-color="#0A2233"/></linearGradient>
+<linearGradient id="tz-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#14B8A6"/><stop offset="1" stop-color="#7DD3FC"/></linearGradient>
+<radialGradient id="tz-glow" cx="0.78" cy="0.3" r="0.6"><stop offset="0" stop-color="#14B8A6" stop-opacity="0.35"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+<animate attributeName="cx" values="0.78;0.68;0.78" dur="9s" repeatCount="indefinite"/></radialGradient>
+<pattern id="tz-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#16324A" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="380" fill="url(#tz-bg)"/>
+<rect width="1200" height="380" fill="url(#tz-grid)" opacity="0.55"/>
+<rect width="1200" height="380" fill="url(#tz-glow)"/>
+<g fill="none" stroke="#14B8A6" stroke-opacity="0.45">
+<circle cx="940" cy="190" r="110"/><circle cx="940" cy="190" r="165" stroke-dasharray="3 9"/>
+<circle r="5" fill="#7DD3FC" stroke="none"><animateMotion dur="14s" repeatCount="indefinite" path="M940,80 A110,110 0 1,1 939.9,80"/></circle>
+<circle r="4" fill="#14B8A6" stroke="none"><animateMotion dur="22s" repeatCount="indefinite" path="M940,25 A165,165 0 1,0 939.9,25"/></circle>
+</g>
+<path d="M60 318 C 260 318, 300 270, 480 280 S 800 330, 1140 290" fill="none" stroke="url(#tz-line)" stroke-width="2" stroke-dasharray="1400" stroke-dashoffset="1400">
+<animate attributeName="stroke-dashoffset" from="1400" to="0" dur="3.5s" fill="freeze"/></path>
+<text x="64" y="92" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="16" fill="#14B8A6" letter-spacing="3">&gt; HELLO, WORLD</text>
+<text x="60" y="180" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="92" font-weight="700" fill="#E8F5F2">Tabrez</text>
+<text x="64" y="228" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" fill="#7DD3FC">AI Engineer  ·  Full-Stack Developer</text>
+<text x="64" y="262" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#8AA4B2">RAG architectures · agentic pipelines · LLM fine-tuning · cloud infrastructure</text>
+<rect x="64" y="340" width="220" height="3" rx="1.5" fill="url(#tz-line)"><animate attributeName="width" values="120;260;120" dur="5s" repeatCount="indefinite"/></rect>
+</svg>
