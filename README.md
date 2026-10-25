@@ -1,139 +1,56 @@
-<a href="https://tabrezkhan.in" target="_blank">
-  <img src="assets/gitbanner.png" alt="Tabrez Khan — AI/ML & Full Stack Engineer" width="100%" />
-</a>
-
-<h1 align="center">Hi, I’m Tabrez Khan 👋</h1>
-
-<h3 align="center">
-AI/ML Engineer • Full Stack Developer • Product Builder
-</h3>
+<img src="assets/tabrez-hero.svg" width="100%" alt="Tabrez — AI Engineer and Full-Stack Developer. RAG architectures, agentic pipelines, LLM fine-tuning, cloud infrastructure.">
 
 <p align="center">
-  <a href="https://tabrezkhan.in" target="_blank"><b>Portfolio</b></a> •
-  <a href="https://tabrezkhan.in/blogs" target="_blank"><b>Blog</b></a> •
-  <a href="mailto:tabrezkhangnt@gmail.com"><b>Email</b></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/"><img src="https://img.shields.io/badge/LinkedIn-connect-14B8A6?style=for-the-badge&labelColor=0B1626&logo=linkedin&logoColor=E8F5F2" alt="LinkedIn profile"></a>
+  <a href="mailto:YOUR-PUBLIC-EMAIL"><img src="https://img.shields.io/badge/Email-get_in_touch-14B8A6?style=for-the-badge&labelColor=0B1626&logo=gmail&logoColor=E8F5F2" alt="Email"></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-visit-14B8A6?style=for-the-badge&labelColor=0B1626&logo=vercel&logoColor=E8F5F2" alt="Portfolio website"></a>
 </p>
+
+<img src="assets/title-about.svg" width="100%" alt="01 About — Systems-level AI engineering, built to ship.">
+
+I'm a Computer Science student at **KITS Guntur** and an AI engineer. I design and build **RAG architectures**, **agentic AI pipelines** and **LLM fine-tuning** workflows, then wrap them in production-grade full-stack products: Django and Next.js on top, AWS and Terraform underneath, pgvector for retrieval.
+
+I care about cost-conscious infrastructure, clear documentation and software that can explain how it works.
+
+<img src="assets/title-work.svg" width="100%" alt="02 Selected work — Products and platforms, not exercises.">
+
+<img src="assets/project-callez.svg" width="100%" alt="Callez.ai: multi-tenant outbound recruiting calling platform with AI voice agents, multi-tenant RAG on pgvector and Terraform-provisioned AWS infrastructure. Django, Celery, Next.js, pgvector, Terraform, AWS.">
+
+<img src="assets/project-lms.svg" width="100%" alt="LMS Platform: learning management platform across web and mobile with payments, auth and CDN-delivered media. Next.js, Expo, FastAPI, PostgreSQL, Redis, S3.">
+
+<img src="assets/project-trustvault.svg" width="100%" alt="TrustVault: secure document sharing with a real audit trail, built solo in seven days with a threat model and documented AI prompts. Next.js.">
+
+<img src="assets/project-campus.svg" width="100%" alt="KITS Campus Guide: campus web app with animated UI and a designed AR indoor navigation concept using visual place recognition. Next.js, GSAP, Framer Motion, TensorFlow.js.">
+
+<!-- Add repository / live-demo badges under each card once the repos are public, e.g.:
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME/REPO"><img src="https://img.shields.io/badge/Repository-NAME-14B8A6?style=for-the-badge&labelColor=0B1626&logo=github&logoColor=E8F5F2" alt="NAME repository"></a>
+</p>
+-->
+
+<img src="assets/title-toolkit.svg" width="100%" alt="03 Toolkit — What I reach for.">
+<img src="assets/toolkit.svg" width="100%" alt="Toolkit. AI/ML: RAG, agentic pipelines, LLM fine-tuning, embeddings, pgvector. Backend: Django, Celery, FastAPI, Fastify, Redis, PostgreSQL. Frontend: Next.js, React, TypeScript, GSAP, Framer Motion, Expo. Cloud and DevOps: AWS, Terraform, EC2, RDS, nginx, CI/CD, Docker.">
+
+<img src="assets/title-leadership.svg" width="100%" alt="04 Leadership — Building people and community.">
+
+**President, Innovation Club — KITS Guntur.** Building the club's structure, events and a multi-page Next.js club website.
+
+<img src="assets/title-commits.svg" width="100%" alt="05 Commit log — Real activity, straight from GitHub.">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tabrezkhan005&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=0B1626&title_color=14B8A6&text_color=8AA4B2&icon_color=7DD3FC&custom_title=GitHub%20at%20a%20glance" width="420" alt="GitHub stats: stars, commits, pull requests and issues">
 </p>
 
----
+<!-- Optional contribution snake: add .github/workflows/snake.yml (included), run it once, then uncomment:
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" width="100%" alt="Snake eating my real public GitHub contributions over the past year">
+-->
 
-## 🚀 About Me
-
-I’m a **Full Stack Engineer with strong AI/ML foundations**, focused on building **scalable, production-grade systems** — not just demos.
-
-I enjoy working at the intersection of:
-- **Intelligent systems**
-- **Modern web & mobile applications**
-- **Cloud-native architectures**
-
-I care deeply about **clean UI, maintainable code, and real-world impact**.
-
----
-
-## 🧠 Current Focus
-
-- 🤖 **AI / ML Engineering & Intelligent Systems**
-- ⚡ **Next.js 14+, TypeScript, Tailwind CSS**
-- 📱 **Flutter & React Native (Production Apps)**
-- 🗄 **Supabase, PostgreSQL, Auth & RLS**
-- ☁️ **GCP & AWS (Cloud + DevOps basics)**
-- 🧩 **API design, system architecture & scalability**
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,figma&theme=dark" />
-</p>
-
-### Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative&theme=dark" />
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql,mongodb&theme=dark" />
-</p>
-
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase&theme=dark" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 📌 What I Build
-
-- ✅ AI-powered applications & agents  
-- ✅ SaaS platforms & dashboards  
-- ✅ Mobile apps (Android / iOS)  
-- ✅ REST & real-time APIs  
-- ✅ Secure authentication & role-based systems  
-- ✅ Scalable PostgreSQL-backed systems  
-
----
-
-## 📊 GitHub Stats
+<img src="assets/title-connect.svg" width="100%" alt="06 Connect — Let's build something worth explaining.">
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api?username=tabrezkhan005&show_icons=true&theme=dark&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tabrezkhan005&theme=dark&hide_border=true" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/"><img src="https://img.shields.io/badge/LinkedIn-connect-14B8A6?style=for-the-badge&labelColor=0B1626&logo=linkedin&logoColor=E8F5F2" alt="LinkedIn profile"></a>
+  <a href="mailto:YOUR-PUBLIC-EMAIL"><img src="https://img.shields.io/badge/Email-get_in_touch-14B8A6?style=for-the-badge&labelColor=0B1626&logo=gmail&logoColor=E8F5F2" alt="Email"></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-visit-14B8A6?style=for-the-badge&labelColor=0B1626&logo=vercel&logoColor=E8F5F2" alt="Portfolio website"></a>
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tabrezkhan005&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tabrezkhan005&theme=tokyonight&no-frame=true&column=7" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/tabrezkhan005">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" />
-  </a>
-  <a href="https://linkedin.com/in/tabrez-khan-69a4b82a5">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" />
-  </a>
-  <a href="https://twitter.com/tabrezk42655433">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" />
-  </a>
-</p>
-
----
-
-## ✨ Philosophy
-
-> **“Code is like humor. When you have to explain it, it’s bad.”** — Cory House
-
-<p align="center">
-  <img src="https://github.com/tabrezkhan005/tabrezkhan005/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <sub>Built with 💙 by Tabrez Khan</sub>
-</p>
+<img src="assets/footer.svg" width="100%" alt="Tabrez — Production-grade AI, shipped with care.">
