@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="06 Connect — Let's build something worth explaining.">
+<defs><linearGradient id="tt-connect" x1="0" x2="1"><stop offset="0" stop-color="#14B8A6"/><stop offset="1" stop-color="#7DD3FC"/></linearGradient></defs>
+<rect width="1200" height="110" fill="#060B14"/>
+<text x="40" y="58" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="18" fill="#14B8A6">06</text>
+<text x="96" y="62" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="700" fill="#E8F5F2">Connect</text>
+<text x="96" y="92" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#8AA4B2">Let's build something worth explaining.</text>
+<rect x="40" y="102" width="1120" height="2" fill="#16324A"/><rect x="40" y="102" width="180" height="2" fill="url(#tt-connect)"/>
+</svg>
