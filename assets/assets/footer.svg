@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Tabrez — Production-grade AI, shipped with care.">
-<defs><linearGradient id="ft-l" x1="0" x2="1"><stop offset="0" stop-color="#14B8A6" stop-opacity="0"/><stop offset="0.5" stop-color="#7DD3FC"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/></linearGradient></defs>
-<rect width="1200" height="140" fill="#060B14"/>
-<rect x="100" y="40" width="1000" height="2" fill="url(#ft-l)"><animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></rect>
-<text x="600" y="88" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#E8F5F2">Tabrez</text>
-<text x="600" y="116" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#8AA4B2">Production-grade AI, shipped with care.</text>
-</svg>
