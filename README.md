@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/"><img src="https://img.shields.io/badge/LinkedIn-connect-111111?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile"></a>
-  <a href="mailto:YOUR-PUBLIC-EMAIL"><img src="https://img.shields.io/badge/Email-get_in_touch-111111?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=FFFFFF" alt="Email"></a>
+  <a href="mailto:tabrezkhangnt@gmail.com"><img src="https://img.shields.io/badge/Email-get_in_touch-111111?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=FFFFFF" alt="Email"></a>
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-visit-111111?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=FFFFFF" alt="Portfolio website"></a>
 </p>
 
@@ -35,7 +35,7 @@
 <img src="assets/title-commits.svg" width="100%" alt="05 Commit log — Activity, unfiltered.">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=000000&title_color=FFFFFF&text_color=A8A8A8&icon_color=FFFFFF&custom_title=GitHub%20at%20a%20glance" width="440" alt="GitHub stats: stars, commits, pull requests and issues">
+  <img src="https://github-readme-stats.vercel.app/api?username=tabrezkhan005&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=000000&title_color=FFFFFF&text_color=A8A8A8&icon_color=FFFFFF&custom_title=GitHub%20at%20a%20glance" width="440" alt="GitHub stats: stars, commits, pull requests and issues">
 </p>
 
 <!-- Optional contribution snake: the workflow in .github/workflows/snake.yml writes it to an "output" branch.
