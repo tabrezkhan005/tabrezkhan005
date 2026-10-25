@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 136" width="1200" height="136" role="img" aria-label="05 COMMIT LOG — Activity, unfiltered.">
+<defs><linearGradient id="s-commits" x1="0" x2="1"><stop offset="0" stop-color="#6B6B6B"/><stop offset="1" stop-color="#6B6B6B" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="136" fill="#000000"/>
+<text x="48" y="36" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="3"><tspan fill="#FFFFFF">05</tspan><tspan dx="14" fill="#6B6B6B">COMMIT LOG</tspan></text>
+<text x="1152" y="36" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#6B6B6B" letter-spacing="3">LIVE FROM GITHUB</text>
+<text x="48" y="92" font-family="Georgia,'Times New Roman',serif" font-size="46" fill="#FFFFFF">Activity, <tspan font-style="italic" fill="#A8A8A8">unfiltered.</tspan></text>
+<rect x="48" y="114" width="1104" height="1.5" fill="url(#s-commits)"/>
+<circle cx="1000" cy="114.75" r="3.5" fill="#8C8C8C"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 156" width="1200" height="156" role="img" aria-label="Tabrez — Building systems that can explain themselves.">
+<defs><linearGradient id="f-l" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="156" fill="#000000"/>
+<rect x="100" y="36" width="1000" height="1.5" fill="url(#f-l)"><animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/></rect>
+<text x="600" y="92" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" font-style="italic" fill="#FFFFFF">Building systems that can explain themselves.</text>
+<text x="600" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#6B6B6B" letter-spacing="4">TABREZ  ·  AI ENGINEER  ·  KITS GUNTUR</text>
+</svg>

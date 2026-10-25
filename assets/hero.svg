@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Tabrez — AI Engineer and Full-Stack Developer. Engineering intelligence that ships. RAG, agentic pipelines, LLM fine-tuning, cloud infrastructure.">
+<defs><pattern id="h-grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#1F1F1F" stroke-width="1"/></pattern>
+<radialGradient id="h-glow" cx="0.8" cy="0.4" r="0.55"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/><animate attributeName="cx" values="0.8;0.72;0.8" dur="10s" repeatCount="indefinite"/></radialGradient>
+<linearGradient id="h-line" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="440" fill="#000000"/>
+<rect width="1200" height="440" fill="url(#h-grid)" opacity="0.7"/><rect width="1200" height="440" fill="url(#h-glow)"/>
+<g fill="none" stroke="#454545">
+<circle cx="930" cy="220" r="96"/><circle cx="930" cy="220" r="150" stroke-dasharray="2 8"/><circle cx="930" cy="220" r="204" stroke="#2E2E2E"/>
+<path d="M726 220H1134M930 16V424" stroke="#2E2E2E" stroke-dasharray="4 10"/>
+</g>
+<g fill="#FFFFFF"><circle r="5"><animateMotion dur="16s" repeatCount="indefinite" path="M930,124 A96,96 0 1,1 929.9,124"/></circle>
+<circle r="4" fill="#A8A8A8"><animateMotion dur="26s" repeatCount="indefinite" path="M930,70 A150,150 0 1,0 929.9,70"/></circle>
+<circle r="3" fill="#8C8C8C"><animateMotion dur="38s" repeatCount="indefinite" path="M930,16 A204,204 0 1,1 929.9,16"/></circle></g>
+<text x="64" y="96" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8C8C8C" letter-spacing="4">PORTFOLIO · 2026</text>
+<text x="60" y="206" font-family="Georgia,'Times New Roman',serif" font-size="116" fill="#FFFFFF">Tabrez<tspan fill="#8C8C8C" font-style="italic">.</tspan></text>
+<text x="64" y="262" font-family="Georgia,'Times New Roman',serif" font-size="30" font-style="italic" fill="#EDEDED">Engineering intelligence that ships.</text>
+<text x="64" y="304" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#A8A8A8">AI ENGINEER  ·  FULL-STACK DEVELOPER</text>
+<text x="64" y="332" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#6B6B6B">RAG  /  AGENTIC PIPELINES  /  LLM FINE-TUNING  /  CLOUD INFRASTRUCTURE</text>
+<rect x="64" y="372" width="260" height="2" fill="url(#h-line)"><animate attributeName="width" values="140;300;140" dur="6s" repeatCount="indefinite"/></rect>
+</svg>
